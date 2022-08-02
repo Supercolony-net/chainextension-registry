@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "id": 1,
+        "repository:": "https://github.com/paritytech/substrate/blob/master/frame/assets/src/chain_extension.rs",
+        "typeName:": "PSP22AssetExtension"
+    }
+]
